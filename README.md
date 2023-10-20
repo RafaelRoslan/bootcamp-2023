@@ -12,7 +12,7 @@ classDiagram
   }
   class Account {
     - email: String
-    - data_cadastro: String
+    - registration_date: String
   }
   class Collection {
     - name: String
